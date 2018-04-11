@@ -1,3 +1,5 @@
+@charset "utf-8";
+/** * vscode-markdown.css */
 body {
     font-family: "Microsoft Yahei", Helvetica, arial, sans-serif ;
      font-size: 14px;
@@ -310,6 +312,4 @@ body {
     pre {
      word-wrap: break-word;
     }
-
-
    }
